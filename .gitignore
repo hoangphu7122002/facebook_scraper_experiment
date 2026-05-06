@@ -1,0 +1,6 @@
+fb_cookies.json
+fb_state.json
+.env
+.env.*
+*.log
+__pycache__/
